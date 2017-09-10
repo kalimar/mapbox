@@ -1,0 +1,75 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marumen",
+        "description": "Shhh - best ramen outside the beltway."
+      },
+      "geometry": {
+        "coordinates": [
+          -77.273585,
+          38.863394
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northside Social",
+        "description": "Unbeatable cappuccino"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.097688,
+          38.885735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raouche Cafe",
+        "description": "The only Lebanese restaurant I know that serves sfirra"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.225411,
+          38.873969
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Obelisk",
+        "description": "Secret Italian fine dining restaurant by the people that brought you 2 Amys"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.046183,
+          38.910126
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kogiya BBQ",
+        "description": "The collection of sides served with your begogi is second to none"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.197022,
+          38.832011
+        ],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
